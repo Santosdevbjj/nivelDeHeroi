@@ -1,8 +1,7 @@
-## Formação Lógica de Programação
+## Formação Lógica de Programação. Curso ministrado pela DIO.
 
 
 ![DeveloperImagem001](https://github.com/user-attachments/assets/6ddad895-9b96-4558-92e9-72ce04783731)
-
 
 
 ## Classificador de Nível de Herói
