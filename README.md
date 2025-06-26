@@ -1,6 +1,7 @@
 ## Formação Lógica de Programação
 
-![Screenshot_20250626-181217](https://github.com/user-attachments/assets/e5f5e02b-dbf8-4f34-b181-96ffa829281b)
+
+
 
 
 ## Classificador de Nível de Herói
