@@ -1,6 +1,7 @@
 ## Formação Lógica de Programação
 
 
+![DeveloperImagem001](https://github.com/user-attachments/assets/6ddad895-9b96-4558-92e9-72ce04783731)
 
 
 
